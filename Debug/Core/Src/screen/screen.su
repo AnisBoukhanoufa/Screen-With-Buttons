@@ -1,0 +1,3 @@
+../Core/Src/screen/screen.c:55:6:Page_View	0	static
+../Core/Src/screen/screen.c:80:6:Page_Controller	0	static
+../Core/Src/screen/screen.c:104:6:Init_Screen	8	static

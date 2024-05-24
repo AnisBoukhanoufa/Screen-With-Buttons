@@ -1,0 +1,4 @@
+../Core/Src/screen/pages/date_page.c:109:13:Change_Date_Time	8	static
+../Core/Src/screen/pages/date_page.c:25:6:Date_Page_Set_Value	8	static
+../Core/Src/screen/pages/date_page.c:32:6:Date_Page_Controller	8	static
+../Core/Src/screen/pages/date_page.c:58:6:Date_Page_View	56	static

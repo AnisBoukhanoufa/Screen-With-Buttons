@@ -1,0 +1,3 @@
+../Core/Src/screen/screen.c:55:6:Page_View	6
+../Core/Src/screen/screen.c:80:6:Page_Controller	6
+../Core/Src/screen/screen.c:104:6:Init_Screen	1
